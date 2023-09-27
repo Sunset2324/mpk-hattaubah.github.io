@@ -66,8 +66,9 @@ body {
   transform: scale(0.5);
 }
 
-.navbar .navbar-extra {
+.navbar .navbar-extra a{
   color: #000000;
+  diplay: inline-block;
   margin: 0 0.5rem;
 }
 
